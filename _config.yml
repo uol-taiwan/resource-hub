@@ -1,6 +1,6 @@
 ---
 remote_theme: daattali/beautiful-jekyll
-layout: page
+layout: minimal
 
 plugins:
   - jekyll-remote-theme
