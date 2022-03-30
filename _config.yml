@@ -14,8 +14,11 @@ relative_links:
 
 include:
   - README.md
-  - 
 
 title-heading: false
-css: assets/css/style.scss
-font-family: 'Helvetica Neue', 'Helvetica', 'Microsoft Yahei', sans-serif;
+# css: assets/css/style.scss
+# font-family:
+#   - Helvetica Neue
+#   - Helvetica
+#   - Microsoft Yahei
+#   - sans-serif
