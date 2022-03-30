@@ -22,3 +22,9 @@ font-family:
   - Helvetica
   - Microsoft Yahei
   - sans-serif
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
