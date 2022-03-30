@@ -1,5 +1,6 @@
 layout: page
 remote_theme: daattali/beautiful-jekyll
+nav-short: true
 # theme: jekyll-theme-minimal
 language: zh-Hant-TW
 gh-repo: uol-taiwan/resource-hub
