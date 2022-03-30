@@ -19,7 +19,11 @@ include:
 # js: /assets/js/index.js
 
 navbar-links:
-  Resource-Hub: "resource-hub"
+  For-New-Student: "For New Students.html"
+  
+author:
+  name: UOL Taiwan
+  github: uol-taiwan  
 
 language: zh-Hant-TW
 title: UOL Taiwan
