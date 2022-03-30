@@ -1,5 +1,6 @@
 remote_theme: daattali/beautiful-jekyll
 # theme: jekyll-theme-minimal
+language: zh-tw
 plugins:
   - jekyll-remote-theme
   - jekyll-relative-links
