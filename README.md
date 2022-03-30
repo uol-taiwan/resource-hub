@@ -1,6 +1,6 @@
 # 新手入村須知
 
-- [For New Students](./For%20New%20Students.html)
+- [For New Students](https://uol-taiwan.github.io/resource-hub/For%20New%20Students.html)
 
 # Level 4 懶人包
 
