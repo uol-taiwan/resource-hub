@@ -24,7 +24,7 @@ gh-badge: start
 nav-short: true
 baseurl: /resource-hub
 css: 
-  - /source/_scss/style.scss
+  - style.css
 
 head-extra:
   - <link rel="stylesheet" href="./assets/css/style.css">
