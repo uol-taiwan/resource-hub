@@ -1,8 +1,3 @@
-layout: page
-title: "CM1040 - WD"
-permalink: /resource-hub/cm1040_wd
-
-
 # CM1040 Web Development
 
 ![ULTSG_Banner](https://user-images.githubusercontent.com/14081948/160753354-ee8de386-f666-4d3e-b1a6-7055819adabf.png)
