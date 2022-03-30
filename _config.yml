@@ -1,7 +1,7 @@
 remote_theme: daattali/beautiful-jekyll
 # theme: jekyll-theme-minimal
 language: zh-Hant-TW
-gh-repo: https://github.com/uol-taiwan/resource-hub
+gh-repo: uol-taiwan/resource-hub
 gh-badge: follow
 plugins:
   - jekyll-remote-theme
