@@ -17,6 +17,7 @@ include:
   - README.md
 title-heading: false
 css: /resource-hub/assets/css/style.scss
+js: /assets/js/index.js
 font-family:
   - Helvetica Neue
   - Helvetica
