@@ -13,11 +13,11 @@
 
 <p style="height:20px;">&nbsp;</p>
 
-# UoL Taiwan 新手入村須知
+# 🤩 UoL Taiwan 新手入村須知
 
 [For New Students](https://uol-taiwan.github.io/resource-hub/For%20New%20Students.html)
 
-# Level 4 懶人包
+# 😜 Level 4 懶人包
 
 [CM1005 - ITP1: Intro to Programming I](https://uol-taiwan.github.io/resource-hub/Level%204/CM1005%20ITP1/README.html)
 
@@ -35,7 +35,7 @@
 
 [CM1040 - WD: Web Development](https://uol-taiwan.github.io/resource-hub/Level%204/CM1040%20WD/README.html)
 
-# 其他資源
+# 📁 其他資源
 ### LaTex 模板版型(適用於寫考試/作業)
 - [LaTex Template (Overleaf)](https://www.overleaf.com/read/gdvxqpndqrjg)
 <br />
