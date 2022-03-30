@@ -4,7 +4,7 @@
 
 # Level 4 懶人包
 
-1. [CM1005 ITP1](./Level%204/CM1005%20ITP1/README.html)
+1. [CM1005 ITP1](https://uol-taiwan.github.io/resource-hub/Level%204/CM1005%20ITP1/README.html)
 
 2. [CM1010 ITP2](./Level%204/CM1010%20ITP2/README.html)
 
