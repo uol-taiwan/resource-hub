@@ -20,7 +20,7 @@ include:
 language: zh-Hant-TW
 title: UOL Taiwan
 gh-repo: uol-taiwan/resource-hub
-gh-badge: follow
+gh-badge: start
 nav-short: true
 baseurl: /resource-hub
 
