@@ -19,7 +19,7 @@ include:
   # - /assets/css/style.scss
   # - /assets/js/index.js
 # title-heading: false
-css: /assets/css/style.scss
+# css: /assets/css/style.scss
 js: /assets/js/index.js
 # font-family:
 #   - Helvetica Neue
