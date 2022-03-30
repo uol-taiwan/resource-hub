@@ -9,3 +9,5 @@ relative_links:
 
 include:
   - README.md
+
+title-heading: false
