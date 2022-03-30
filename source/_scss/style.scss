@@ -1,5 +1,6 @@
 @import "";
 
-.page-heading h1 {
-  font-size: 8px;
+@media (min-width: 1200px)
+.intro-header .page-heading h1 {
+  font-size: 0.5rem;
 }
