@@ -36,9 +36,9 @@
 [CM1040 - WD: Web Development](https://uol-taiwan.github.io/resource-hub/Level%204/CM1040%20WD/README.html)
 
 # 📁 其他資源
-### GitHub Student Developer Pack
+ ### GitHub Student Developer Pack
  - [建議申請](https://education.github.com/pack): 這裡有好康的可以用學生身份來申請，有很多知名軟體的試用(約莫一年，有的可持續續約)或免費線上 Coding 課程，免費網址，免費雲端服務等等，非常建議同學們申請。
-### LaTex 模板版型(適用於寫考試/作業)
+ ### LaTex 模板版型(適用於寫考試/作業)
 - [LaTex Template (Overleaf)](https://www.overleaf.com/read/gdvxqpndqrjg)
 <br />
 
