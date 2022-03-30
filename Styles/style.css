@@ -1,0 +1,5 @@
+@import "{{daattali/beautiful-jekyll}}";
+
+header {
+  display: none;
+}
