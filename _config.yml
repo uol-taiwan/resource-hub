@@ -19,8 +19,14 @@ include:
   # - /assets/css/style.scss
   # - /assets/js/index.js
 # title-heading: false
+
 # css: /assets/css/style.scss
 # js: /assets/js/index.js
+
+head-extra:
+  - <link rel="stylesheet" href="./assets/css/style.css">
+  - <script src="./assets/js/index.js"
+
 # font-family:
 #   - Helvetica Neue
 #   - Helvetica
