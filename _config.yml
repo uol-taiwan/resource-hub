@@ -1,6 +1,4 @@
-remote_theme: mmistakes/minimal-mistakes
-theme: minimal-mistakes-jekyll
-# theme: jekyll-theme-minimal
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-relative-links
 relative_links:
