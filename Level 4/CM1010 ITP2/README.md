@@ -5,7 +5,7 @@
 ### 🔖  課前準備事項:
 
 - **JavaScript:**
-    - 本課延伸了 ITP1 課程裡面的 p5js library 的應用，所以基本上就是一堂加強版的JavaScript 應用課，如果對 p5j 還是不夠熟的同學們，可以課前先多看 ****[The Coding Train](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) 的 p5j 範例應用，可以加強對 p5j 的基本架構的基礎觀念，因為如果不清楚 p5j 裡面的 setup(), draw() 這些流程概念的話，Final Project 對你來說會有很大的難度。
+    - 本課延伸了 ITP1 課程裡面的 p5js library 的應用，所以基本上就是一堂加強版的JavaScript 應用課，如果對 p5j 還是不夠熟的同學們，可以課前先多看 [The Coding Train](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) 的 p5j 範例應用，可以加強對 p5j 的基本架構的基礎觀念，因為如果不清楚 p5j 裡面的 setup(), draw() 這些流程概念的話，Final Project 對你來說會有很大的難度。
     - 另外基本的 JavaScript 語法也是必須要盡快熟悉的： Array, List, Function, Constructor, Object, Object Type, Loop, Bool 等等都是很基礎的概念。
 - **指定課本:** 無。本課程沒有指定閱讀教材,所以跟著老師的指導跟Demo就行了。建議多練習 JavaScript 基本語法。
 - **電腦環境需求**: PC/Mac/Linux 都可，這堂課大部分都是寫網頁版的作業，所以只要有瀏覽器跟Code Editor (雖然課程上建議下載Brackets，💡 但是還是建議使用[Visual Studio Code](https://code.visualstudio.com/)) 即可。
@@ -24,10 +24,8 @@
         - 盡可能註解 code 裡面的用意，參考來源跟任何可以幫助你達成某個功能的過程。
         - 報告部份要包含進度紀錄 (Logs) 和有字限的文字報告。
 - **其他考核作業**: 無。
-    
-    
 
-🤩 **同學們的建議:**
+### 🤩 同學們的建議:
 
 Chris: 如果你對JavaScript還不夠熟悉，一定要在這堂課內把它學好，課程上的 p5j 的應用有所升級，可多參考 The Coding Train 的範例以幫助基礎概念。剩下就看自己努力了。[03/29/2022] 
 
