@@ -17,3 +17,4 @@ include:
 
 title-heading: false
 css: "/Styles/style.css"
+font-family: 'Helvetica Neue', 'Helvetica', 'Microsoft Yahei', sans-serif;
