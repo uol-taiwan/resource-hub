@@ -1,3 +1,4 @@
+---
 remote_theme: daattali/beautiful-jekyll
 layout: page
 language: zh-Hant-TW
@@ -31,3 +32,5 @@ defaults:
       type: "pages"
     values:
       layout: "default"
+---
+
