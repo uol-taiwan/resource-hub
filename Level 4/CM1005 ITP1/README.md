@@ -4,9 +4,9 @@
 
 ### 🔖  課前準備事項:
 
-- **JavaScript**： ****如果從來沒有寫過，建議先看幾個Youtube的[教學](https://youtu.be/PkZNo7MFNFg)，或[The Coding Train](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)先了解一下幾個重點概念：(💡 建議只需要了解一個初步概念，無須花太多時間在細節！)
+- **JavaScript**： 如果從來沒有寫過，建議先看幾個Youtube的[教學](https://youtu.be/PkZNo7MFNFg)，或[The Coding Train](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)先了解一下幾個重點概念：(💡 建議只需要了解一個初步概念，無須花太多時間在細節！)
     - Variable / String / Numbers / For Loop / While Loop / Class & Function / Constructor / Deconstructor / Objects / Class
-- [P5js](https://p5js.org/):** 整個課程圍繞在這個繪圖框架裡，想先預習可以先看一下網站的Demo，但不用太過研究。
+- **[P5js](https://p5js.org/):** 整個課程圍繞在這個繪圖框架裡，想先預習可以先看一下網站的Demo，但不用太過研究。
 - **指定課本:** 無。本課程沒有指定閱讀教材，所以跟著老師的指導跟Demo就行了。
 - **電腦環境需求**: PC/Mac/Linux 都可，這堂課大部分都是寫網頁版的作業，所以只要有瀏覽器跟Code Editor (雖然課程上建議下載Brackets，💡 但是還是建議使用[Visual Studio Code](https://code.visualstudio.com/)) 即可。
 - **其他工具準備**: 無。
