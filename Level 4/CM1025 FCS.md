@@ -1,6 +1,6 @@
 # CM1025 : Fundamentals of Computer Science
 
-![ULTSG_Banner.png](CM1025%20Fun%20e86eb/ULTSG_Banner.png)
+![ULTSG_Banner](https://user-images.githubusercontent.com/14081948/160753354-ee8de386-f666-4d3e-b1a6-7055819adabf.png)
 
 ### 🔖  課前準備事項:
 
