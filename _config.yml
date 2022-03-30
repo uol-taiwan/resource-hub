@@ -1,9 +1,7 @@
 layout: page
 remote_theme: daattali/beautiful-jekyll
-nav-short: true
-language: zh-Hant-TW
-gh-repo: uol-taiwan/resource-hub
-gh-badge: follow
+
+
 plugins:
   - jekyll-remote-theme
   - jekyll-relative-links
@@ -13,3 +11,8 @@ relative_links:
 
 include:
   - README.md
+  
+language: zh-Hant-TW
+gh-repo: uol-taiwan/resource-hub
+gh-badge: follow
+nav-short: true
