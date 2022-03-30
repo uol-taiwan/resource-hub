@@ -23,6 +23,8 @@ include:
 # css: /assets/css/style.scss
 # js: /assets/js/index.js
 
+title: UOL Taiwan
+
 head-extra:
   - <link rel="stylesheet" href="./assets/css/style.css">
   - <script src="./assets/js/index.js"
