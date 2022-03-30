@@ -16,21 +16,21 @@ relative_links:
 
 include:
   - README.md
-  - /assets/css/style.scss
-  - /assets/js/index.js
-title-heading: false
-css: /resource-hub/assets/css/style.scss
+  # - /assets/css/style.scss
+  # - /assets/js/index.js
+# title-heading: false
+css: /assets/css/style.scss
 js: /assets/js/index.js
-font-family:
-  - Helvetica Neue
-  - Helvetica
-  - Microsoft Yahei
-  - sans-serif
-defaults:
-  - scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: "default"
+# font-family:
+#   - Helvetica Neue
+#   - Helvetica
+#   - Microsoft Yahei
+#   - sans-serif
+# defaults:
+#   - scope:
+#       path: ""
+#       type: "pages"
+#     values:
+#       layout: "default"
 ---
 
