@@ -4,6 +4,7 @@ language: zh-Hant-TW
 gh-repo: uol-taiwan/resource-hub
 gh-badge: follow
 nav-short: true
+baseurl: /resource-hub
 
 plugins:
   - jekyll-remote-theme
