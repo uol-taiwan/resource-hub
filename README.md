@@ -2,8 +2,6 @@
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/14081948/160769916-cd80de8f-e3df-4b6c-a1ea-b00e866e0190.png" width="40%" style="display:block;margin-left:auto;margin-right:auto;" />
-
-
 </p>
 
 <p align="center">
@@ -14,7 +12,6 @@
 </p>
 
 <p style="height:20px;">&nbsp;</p>
-
 
 # UoL Taiwan 新手入村須知
 
