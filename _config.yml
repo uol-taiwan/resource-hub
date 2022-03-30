@@ -1,5 +1,10 @@
 remote_theme: daattali/beautiful-jekyll
-# theme: jekyll-theme-minimal
+layout: page
+language: zh-Hant-TW
+gh-repo: uol-taiwan/resource-hub
+gh-badge: follow
+nav-short: true
+
 plugins:
   - jekyll-remote-theme
   - jekyll-relative-links
