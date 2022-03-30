@@ -1,6 +1,6 @@
 # CM1030: How Computers Work
 
-![ULTSG_Banner.png](CM1030%20How%20850e3/ULTSG_Banner.png)
+![ULTSG_Banner](https://user-images.githubusercontent.com/14081948/160753354-ee8de386-f666-4d3e-b1a6-7055819adabf.png)
 
 ## 建議RPL，使用[Google IT Support Professional Certificate](https://www.coursera.org/professional-certificates/google-it-support)
 
