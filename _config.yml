@@ -1,7 +1,7 @@
-remote_theme: mmistakes/minimal-mistakes
-theme: minimal-mistakes-jekyll
+remote_theme: daattali/beautiful-jekyll
 # theme: jekyll-theme-minimal
 plugins:
+  - jekyll-remote-theme
   - jekyll-relative-links
 relative_links:
   enabled: true
