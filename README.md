@@ -2,6 +2,15 @@
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/14081948/160769916-cd80de8f-e3df-4b6c-a1ea-b00e866e0190.png" width="40%" style="display:block;margin-left:auto;margin-right:auto;" />
+
+
+</p>
+
+<p align="center">
+這是一個給在學UoL的學生的資訊的園地。<br/>
+儘管這個學位是線上教學的方式，<br/>
+彼此在世界各地的角落學習著，但是學習無遠弗屆，<br/>
+相信大家提供的經驗與資訊可以幫助更多同學們。
 </p>
 
 
