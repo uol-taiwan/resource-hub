@@ -1,7 +1,3 @@
-layout: page
-title: "UoL Resource Hub"
-permalink: /resource-hub/
-
 # 新手入村須知
 
 - [For New Students](https://github.com/uol-taiwan/resource-hub/blob/main/For%20New%20Students.md)
