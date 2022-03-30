@@ -36,7 +36,7 @@
 [CM1040 - WD: Web Development](https://uol-taiwan.github.io/resource-hub/Level%204/CM1040%20WD/README.html)
 
 # 其他資源
-### LaTex 考試/作業版型
+### LaTex 模板版型(適用於寫考試/作業)
 - [LaTex Template (Overleaf)](https://www.overleaf.com/read/gdvxqpndqrjg)
 <br />
 
