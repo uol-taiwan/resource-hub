@@ -1,3 +1,5 @@
+![ULTSG_Banner](https://user-images.githubusercontent.com/14081948/160753354-ee8de386-f666-4d3e-b1a6-7055819adabf.png)
+
 # UoL Taiwan 新手入村須知
 
 - [For New Students](https://uol-taiwan.github.io/resource-hub/For%20New%20Students.html)
