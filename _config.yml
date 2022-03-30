@@ -1,11 +1,6 @@
 ---
 remote_theme: daattali/beautiful-jekyll
 layout: page
-language: zh-Hant-TW
-gh-repo: uol-taiwan/resource-hub
-gh-badge: follow
-nav-short: true
-baseurl: /resource-hub
 
 plugins:
   - jekyll-remote-theme
@@ -22,8 +17,12 @@ include:
 
 # css: /assets/css/style.scss
 # js: /assets/js/index.js
-
+language: zh-Hant-TW
 title: UOL Taiwan
+gh-repo: uol-taiwan/resource-hub
+gh-badge: follow
+nav-short: true
+baseurl: /resource-hub
 
 head-extra:
   - <link rel="stylesheet" href="./assets/css/style.css">
