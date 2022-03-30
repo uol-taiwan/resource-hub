@@ -15,7 +15,7 @@ relative_links:
 include:
   - README.md
 title-heading: false
-css: assets/css/style.scss
+css: /resource-hub/assets/css/style.scss
 font-family:
   - Helvetica Neue
   - Helvetica
