@@ -1,7 +1,5 @@
 body {
   font-family: 'Helvetica Neue', 'Helvetica', 'Microsoft Yahei', sans-serif;
-  margin-left: 8px;
-  margin-right: 8px;
 }
 
 a {
@@ -18,4 +16,11 @@ a:hover {
 
 .nav-link:hover {
   color: #333333;
+}
+
+@media (min-width: 768px) {
+  .container, .container-md, .container-sm {
+    padding-left: 8px;
+    padding-right: 8px;
+  }
 }
