@@ -15,7 +15,7 @@ navbar-links:
   
 language: zh-Hant-TW
 title: UOL Taiwan
-avatar: "ULTSG_Logo.png"
+avatar: "/assets/images/ULTSG_Logo.png"
 gh-repo: uol-taiwan/resource-hub
 gh-badge: start
 nav-short: true
