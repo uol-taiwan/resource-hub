@@ -1,3 +1,6 @@
+---
+title: CM
+---
 # CM1015 : Computational Mathematics
 
 ![ULTSG_Banner](https://user-images.githubusercontent.com/14081948/160753354-ee8de386-f666-4d3e-b1a6-7055819adabf.png)
