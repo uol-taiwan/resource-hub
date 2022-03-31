@@ -1,5 +1,7 @@
 body {
   font-family: 'Helvetica Neue', 'Helvetica', 'Microsoft Yahei', sans-serif;
+  margin-left: 8px;
+  margin-right: 8px;
 }
 
 a {
