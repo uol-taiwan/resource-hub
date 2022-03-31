@@ -1,75 +1,40 @@
 ---
-title: 嗨!
+title: 歡迎!
 ---
+
 ```js
-    alert('hi');
+alert("hi");
 ```
-# For New Students
 
-<aside>
-🔥 ASK QUESTIONS IF YOU HAVE ANY !!!
+# 新同學
 
-</aside>
+> MANTRA: 問問題!!!!!!! 給我問~~
 
-### **To Do List**
+### To Do 清單
 
-- Finish Orientation course on Coursera before `Term start date`
-    
-    Or else you won't get access to your registered modules !!
-    
-- Add all channels of the modules you're taking (i.e. `#cm1005-intro-prog-i`)
-    
-    Use the `browse channels` feature to check out interesting channels
-    
-    All module channels starts with `cm + courseCode`
-    
-    ((There might be some unofficial modules channels people created themselves, 
-    
-    if the numbers of people are too low, you might want to check with other people))
-    
-- Get familiar with the Coursera platform
-- Get familiar with Slack interface (be active !! this is the most valuable thing in this degree
-    
-    Search for answers before asking one
-    
-    Ask wise questions
-    
-    Don't ask graded assignment questions directly
-    
-    Use thread !!!
-    
-- [optional] [Join Discord](https://discord.gg/h4Kuhe57)
-    
-    (it's mainly for prospective students that doesn't have access to Slack)
-    
+- 在`開學日`前完成 Cousera 上的新生訓練(Orientation)
+  不然你將看不到你註冊的課!!
+- 熟悉 Slack 介面 & 加入所有你將要上的課的 channel (i.e. `#cm1005-intro-prog-i`)
+  `browse channels` 找，全部正式課程 channel 都是`cm + course code` 開頭
+  (每個人都可以自己建立 channel，所以可能會非正式課程 channel 不要搞錯了喔，看 channel 人數如果 L4 沒有破千就不對)
+  ![Untitled](%E6%96%B0%E5%90%8C%E5%AD%B8%200a571/Untitled.png)
+  幾個 Slack 的使用重點:
+  在問問題前先搜尋
+  問”好”問題
+  禁止問 graded assignment 的直接問題
+  使用 thread!!!!
+- 熟悉 Coursera 平台
+- [optional] [加入非正式之正式 UoL 校外群 Discord](https://discord.gg/h4Kuhe57)
 
-### **Reminder (as a PBA)**
+### 給 PBA 的注意事項
 
-- Try not to make yourself into troubles, because the admin here is horribly slow
-- You have to gain 50%+ in both `ITP1` and `DM`'s midterm coursework/assignment
-- Midterm deadlines are around mid-January
-- Final deadlines (or exams) are in March
-    
-    (exams are normally early-Mar, project deadlines are normally late-Mar)
-    
-- You will receive your midterm grade around final (yes, 3-month waiting period)
-- You will not be able to register for term 2 before you get the grades
-    
-    And the registration normally closes around the time you get your grade, but this is normal, 
-    
-    don't worry if you didn't get them in time (unless you fail), they'll extend it for you
-    
-- If you decide to continue this degree, and wanting to do full-speed later on,
-    
-    it is strongly recommended (as a PBA) to take the [Google certificate](https://www.coursera.org/professional-certificates/google-it-support) to gain credit 
-    
-    for this `How Computers Work` module, 
-    
-    why? long story short, because of the progression rule, 
-    
-    and so that you can save money and time, and be able to take on level 5 modules 
-    
-    in your third term along with the remaining level 4 modules
-    
+- 能的話不要給自己找需要聯絡學校的麻煩，因為 admin 實在是比龜速還慢
+- 你需要在 ITP1 跟 CM/DM (前者四月後者十月學期) 的期中考分別拿 50%+才能過 PBA
+- 期中考大概是一月中/七月初截止 (有四周)，成績大概會在期末時出來
+- 期末考大概在三月初跟九月初 (24 小時固定日期考試)，成績大概會在下學期期中時出來
+  期末如果是 project 的會在月中到月底
+- 你在拿到期中成績前是沒辦法註冊下學期的，如果因為學校晚釋出成績而拖到註冊，註冊截止日會為你延後。
+- 如果你在過了 PBA 之後就打算全速衝，或者想在第三學期拿至少一堂 L5 的課，強烈建議完成[Google IT Support Professional Certificate](https://www.coursera.org/professional-certificates/google-it-support)並用以 RPL `How Computers Work`這堂課。
+  詳細原因請讀[這篇文](https://uol-taiwan.github.io/resource-hub/Level%204/CM1030%20HCW/README.html)
 
-[Link to programme regulation](https://london.ac.uk/sites/default/files/regulations/progregs-bsc-computer-science-2021-22.pdf)
+最後就是個該讀但是很多人不會讀的 [programme regulation](https://london.ac.uk/sites/default/files/regulations/progregs-bsc-computer-science-2021-22.pdf)
