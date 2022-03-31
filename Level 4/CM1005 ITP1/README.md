@@ -1,5 +1,6 @@
 ---
 title: ITP1
+css: ../../style.css
 ---
 # CM1005: Intro to Programming I
 
