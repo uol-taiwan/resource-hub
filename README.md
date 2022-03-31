@@ -41,9 +41,4 @@
 ### LaTex 模板版型(適用於寫考試/作業)
  - [LaTex Template (Overleaf)](https://www.overleaf.com/read/gdvxqpndqrjg)
 
-<br />
-
-<p align="center">
-UoL Taiwan
-</p>
 

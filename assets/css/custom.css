@@ -2,10 +2,6 @@ body {
   font-family: 'Helvetica Neue', 'Helvetica', 'Microsoft Yahei', sans-serif;
 }
 
-a {
-  color: #006047;
-}
-
 a:hover {
   color: #333333;
 }
