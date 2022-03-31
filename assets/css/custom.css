@@ -20,7 +20,7 @@ a:hover {
 
 @media (min-width: 768px) {
   .container, .container-md, .container-sm {
-    padding-left: 8px;
-    padding-right: 8px;
+    padding-left: 16px;
+    padding-right: 16px;
   }
 }
