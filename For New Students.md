@@ -9,7 +9,7 @@ title: 歡迎!
 
 ### To Do 清單
 
-- 在 <a href="https://london.ac.uk/courses/computer-science#key-dates" target="_new"><span id="school_starts" style="font-weight:bold;color:salmon;">開學日</span></a> 前完成 Cousera 上的新生訓練(Orientation)
+- 在 <a href="https://london.ac.uk/courses/computer-science#key-dates" target="_new"><span id="school_starts" style="font-weight:bold;color:salmon;text-decoration:none;" >?</span></a> 前完成 Cousera 上的新生訓練(Orientation)
   不然你將看不到你註冊的課!!
 - 熟悉 Slack 介面 & 加入所有你將要上的課的 channel (i.e. `#cm1005-intro-prog-i`)
   `browse channels` 找，全部正式課程 channel 都是`cm + course code` 開頭
