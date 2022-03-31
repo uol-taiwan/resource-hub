@@ -10,7 +10,7 @@
 相信大家提供的經驗與資訊可以幫助更多同學們。
 </p>
 
-<p>
+<p align="center">
 目前為學期第<span id="weekNum"></span>週
 </p>
 

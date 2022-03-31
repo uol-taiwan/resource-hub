@@ -16,7 +16,6 @@ window.onload = function(){
 
    let weekCount = Math.floor(diff/7).toString();
 
-
    let weekNum = document.getElementById("weekNum");
    weekNum.innerText = weekCount;
 
