@@ -23,7 +23,7 @@ window.onload = function(){
    if (weekNum < 0) {
       weekNum.innerText = `未開學，開學日：${SCHOOL_START_DATE}`;
    } else {
-      weekNum.innerText = `為學期第${weekCount}週`;
+      weekNum.innerHTML = `為學期第<b style="color:salmon;">${weekCount}</b>週`;
    }
    
 
