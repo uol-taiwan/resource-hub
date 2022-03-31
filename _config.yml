@@ -22,27 +22,6 @@ navbar-links:
   "新同學": "For New Students.html"
   "加入 Discord": https://discord.gg/naaSD4yxtK
   
-author:
-  name: UoL Taiwan
-  github: uol-taiwan
-
-footer-links-active:
-  rss: false
-  facebook: false
-  email: false
-  twitter: false
-  google-plus: false
-  github: true
-  reddit: false
-  linkedin: false
-  xing: false
-  stackoverflow: false
-  snapchat: false
-  instagram: false
-  youtube: false
-  spotify: false
-  telephone: false
-
 language: zh-Hant-TW
 title: UOL Taiwan
 avatar: "ULTSG_Logo.png"
@@ -50,8 +29,6 @@ gh-repo: uol-taiwan/resource-hub
 gh-badge: start
 nav-short: true
 baseurl: /resource-hub
-css: 
-  - "css/main.css"
 
 head-extra:
   - <link rel="stylesheet" href="./assets/css/style.css">
