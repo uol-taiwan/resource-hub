@@ -1,3 +1,6 @@
+---
+title: Hello, students!
+---
 # For New Students
 
 <aside>
