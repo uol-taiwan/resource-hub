@@ -10,7 +10,10 @@
 相信大家提供的經驗與資訊可以幫助更多同學們。
 </p>
 
-<p style="height:20px;">&nbsp;</p>
+<p>
+目前為學期第<span id="weekNum"></span>週
+</p>
+
 
 # 🤩 UoL Taiwan 新手入村須知
 
