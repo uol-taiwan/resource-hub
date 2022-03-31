@@ -1,5 +1,5 @@
 ---
-title: Hello, students!
+title: 給新同學的 Blah Blah Blah
 ---
 # For New Students
 
