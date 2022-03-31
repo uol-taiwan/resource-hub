@@ -23,4 +23,12 @@ a:hover {
     padding-left: 16px;
     padding-right: 16px;
   }
+  footer {
+    padding-top: 0;
+    padding-bottom: 1rem;
+  }
+}
+
+footer {
+  padding: 0 0 1rem 0;
 }
