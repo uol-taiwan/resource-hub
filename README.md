@@ -34,6 +34,9 @@
 
 [CM1040 - WD: Web Development](https://uol-taiwan.github.io/resource-hub/Level%204/CM1040%20WD/README.html)
 
+# 😜 Level 5 懶人包
+(敬請期待)
+
 # 📁 其他資源
 ### GitHub Student Developer Pack
  - [建議申請](https://education.github.com/pack): 這裡有好康的可以用學生身份來申請，有很多知名軟體的試用(約莫一年，有的可持續續約)或免費線上 Coding 課程，免費網址，免費雲端服務等等，非常建議同學們申請。
