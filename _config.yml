@@ -20,10 +20,6 @@ gh-badge: start
 nav-short: true
 baseurl: /resource-hub
 
-# head-extra:
-#   - <link rel="stylesheet" href="./assets/css/style.css">
-#   - <script src="./assets/js/index.js"
-  
 site-css:
   - /assets/css/custom.css
 
@@ -34,29 +30,5 @@ include:
   - README.md
   - /assets/css/custom.css
   - /assets/js/custom.js
-
-
-
-
-  # - /assets/css/style.scss
-  # - /assets/js/index.js
-# title-heading: false
-
-# css: /assets/css/style.scss
-# js: /assets/js/index.js
-
-
-
-# font-family:
-#   - Helvetica Neue
-#   - Helvetica
-#   - Microsoft Yahei
-#   - sans-serif
-# defaults:
-#   - scope:
-#       path: ""
-#       type: "pages"
-#     values:
-#       layout: "default"
 ---
 
