@@ -7,3 +7,15 @@ body {
   border-bottom: 1px solid #EAEAEA;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
+
+a {
+  color: #333333;
+}
+
+a:hover {
+  color: #FFDD4A;
+}
+
+.theme-by {
+  font-size: 8px;
+}
