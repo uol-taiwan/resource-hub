@@ -33,6 +33,9 @@ baseurl: /resource-hub
 head-extra:
   - <link rel="stylesheet" href="./assets/css/style.css">
   - <script src="./assets/js/index.js"
+  
+site-css:
+  - "/css/custom.css"
 
 # font-family:
 #   - Helvetica Neue
