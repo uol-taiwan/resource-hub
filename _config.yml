@@ -8,10 +8,10 @@ plugins:
 relative_links:
   enabled: true
   collections: true
-  
+
 navbar-links:
   "新同學": "For New Students.html"
-  
+
 language: zh-Hant-TW
 title: UOL Taiwan
 avatar: "/assets/images/ULTSG_Logo.png"
@@ -25,10 +25,12 @@ site-css:
 
 site-js:
   - /assets/js/custom.js
+  - /assets/js/widget.js
 
 include:
   - README.md
   - /assets/css/custom.css
   - /assets/js/custom.js
+  - /assets/js/widget.js
 ---
 
