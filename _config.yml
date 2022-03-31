@@ -18,10 +18,6 @@ include:
 # css: /assets/css/style.scss
 # js: /assets/js/index.js
 
-author:
-  name: UOL Taiwan
-  github: github.com/uol-taiwan/resource-hub  
-
 navbar-links:
   "For New Students": "For New Students.html"
   
@@ -33,9 +29,6 @@ gh-badge: start
 nav-short: true
 baseurl: /resource-hub
 css: "style.css"
-
-footer-links-active:
-  github: true
 
 head-extra:
   - <link rel="stylesheet" href="./assets/css/style.css">
