@@ -8,16 +8,7 @@ plugins:
 relative_links:
   enabled: true
   collections: true
-
-include:
-  - README.md
-  # - /assets/css/style.scss
-  # - /assets/js/index.js
-# title-heading: false
-
-# css: /assets/css/style.scss
-# js: /assets/js/index.js
-
+  
 navbar-links:
   "新同學": "For New Students.html"
   "加入 Discord": https://discord.gg/naaSD4yxtK
@@ -36,6 +27,18 @@ head-extra:
   
 site-css:
   - "/css/custom.css"
+
+include:
+  - README.md
+  - /css/custom.css
+  # - /assets/css/style.scss
+  # - /assets/js/index.js
+# title-heading: false
+
+# css: /assets/css/style.scss
+# js: /assets/js/index.js
+
+
 
 # font-family:
 #   - Helvetica Neue
