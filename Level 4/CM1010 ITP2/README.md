@@ -1,3 +1,6 @@
+---
+title: ITP2
+---
 # CM1010 : Intro to Programming II
 
 ![ULTSG_Banner](https://user-images.githubusercontent.com/14081948/160753354-ee8de386-f666-4d3e-b1a6-7055819adabf.png)
