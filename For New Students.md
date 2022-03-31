@@ -1,6 +1,9 @@
 ---
 title: 嗨!
 ---
+```
+alert('hi');
+```
 # For New Students
 
 <aside>
