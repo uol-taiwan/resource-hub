@@ -2,12 +2,6 @@ body {
   font-family: 'Helvetica Neue', 'Helvetica', 'Microsoft Yahei', sans-serif;
 }
 
-.navbar-custom {
-  background: #FFDD4A;
-  border-bottom: 1px solid #EAEAEA;
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-}
-
 a {
   color: #ff9900;
 }
@@ -20,6 +14,6 @@ a:hover {
   font-size: 8px;
 }
 
-nav-link:hover {
+.nav-link:hover {
   color: #333333;
 }
