@@ -1,8 +1,8 @@
 ---
 title: 嗨!
 ---
-```
-alert('hi');
+```js
+    alert('hi');
 ```
 # For New Students
 
