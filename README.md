@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-🗓️ 目前為學期第<span id="weekNum">!</span>週
+🗓️ 目前<span id="weekNum">?</span>
 </p>
 
 
