@@ -1,11 +1,6 @@
 ---
 title: 歡迎!
 ---
-
-<script\>
-alert('hi');
-</script\>
-
 # For New Students
 
 # 新同學
