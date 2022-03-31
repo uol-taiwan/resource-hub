@@ -1,9 +1,9 @@
 ---
 title: 嗨!
 ---
-```js
+<script\>
     alert('hi');
-```
+</script\>
 # For New Students
 
 <aside>
