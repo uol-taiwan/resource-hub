@@ -29,7 +29,8 @@ gh-repo: uol-taiwan/resource-hub
 gh-badge: start
 nav-short: true
 baseurl: /resource-hub
-css: "css/main.css"
+css: 
+  - "css/main.css"
 
 head-extra:
   - <link rel="stylesheet" href="./assets/css/style.css">
