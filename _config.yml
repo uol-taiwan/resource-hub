@@ -20,7 +20,7 @@ include:
 
 author:
   name: UOL Taiwan
-  github: uol-taiwan  
+  github: github.com/uol-taiwan/resource-hub  
 
 navbar-links:
   "For New Students": "For New Students.html"
