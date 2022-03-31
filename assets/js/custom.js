@@ -19,6 +19,8 @@ window.onload = function(){
    let weekNum = document.getElementById("weekNum");
    weekNum.innerText = weekCount;
 
+   console.log(weekCount);
+
    // TO-DO: Add comments dynamically
    // let comments = [];
    // // 222
