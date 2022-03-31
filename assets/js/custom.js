@@ -18,7 +18,12 @@ window.onload = function(){
    let weekCount = Math.floor(diff/7).toString();
 
    let weekNum = document.getElementById("weekNum");
-   weekNum.innerText = weekCount;
+   if (weekNum < 0) {
+      weekNum.innerText = "未開學";
+   } else {
+      weekNum.innerText = `為學期第${weekCount}週`;
+   }
+   
 
    console.log(weekCount);
 
