@@ -1,0 +1,9 @@
+body {
+  font-family: 'Helvetica Neue', 'Helvetica', 'Microsoft Yahei', sans-serif;
+}
+
+.navbar-custom {
+  background: #FFDD4A;
+  border-bottom: 1px solid #EAEAEA;
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
