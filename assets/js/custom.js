@@ -12,11 +12,8 @@ window.onload = function(){
 
    // Calcuate week number
    let ss_dateObj = new Date("04/04/2022");
-
    let today_date = new Date();
-
    let diff = (today_date.getTime() - ss_dateObj.getTime() )/(1000*60*60*24);
-
    let weekCount = Math.ceil(diff/7).toString();
 
    let weekString = document.getElementById("weekNum");
@@ -25,9 +22,6 @@ window.onload = function(){
    } else {
       weekString.innerHTML = `為學期第<b style="color:salmon;">${weekCount}</b>週`;
    }
-   
-
-   console.log(weekCount);
 
    // TO-DO: Add comments dynamically
    // let comments = [];
