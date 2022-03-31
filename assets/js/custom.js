@@ -5,7 +5,8 @@ window.onload = function(){
 
    // School starts
    let school_starts = document.getElementById("school_starts");
-   school_starts.innerText = "2022/04/04";
+   if (school_starts != null) 
+      school_starts.innerText = "2022/04/04";
 
    // Calcuate week number
    let ss_dateObj = new Date("04/04/2022");
