@@ -21,16 +21,24 @@ gh-badge: start
 nav-short: true
 baseurl: /resource-hub
 
-head-extra:
-  - <link rel="stylesheet" href="./assets/css/style.css">
-  - <script src="./assets/js/index.js"
+# head-extra:
+#   - <link rel="stylesheet" href="./assets/css/style.css">
+#   - <script src="./assets/js/index.js"
   
 site-css:
-  - "/css/custom.css"
+  - "/assets/css/custom.css"
+
+site-js:
+  - "/assets/js/custom.js"
 
 include:
   - README.md
-  - /css/custom.css
+  - /assets/css/custom.css
+  - /assets/js/custom.js
+
+
+
+
   # - /assets/css/style.scss
   # - /assets/js/index.js
 # title-heading: false
