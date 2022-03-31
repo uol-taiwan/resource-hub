@@ -18,13 +18,13 @@ include:
 # css: /assets/css/style.scss
 # js: /assets/js/index.js
 
-navbar-links:
-  For-New-Student: "For New Students.html"
-  
 author:
   name: UOL Taiwan
   github: uol-taiwan  
 
+navbar-links:
+  For-New-Student: "For New Students.html"
+  
 language: zh-Hant-TW
 title: UOL Taiwan
 avatar: "ULTSG_Logo.png"
