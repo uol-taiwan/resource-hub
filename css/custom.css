@@ -13,9 +13,13 @@ a {
 }
 
 a:hover {
-  color: #FFDD4A;
+  color: #333333;
 }
 
 .theme-by {
   font-size: 8px;
+}
+
+nav-link:hover {
+  color: #333333;
 }
