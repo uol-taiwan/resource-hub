@@ -14,7 +14,7 @@ window.onload = function(){
 
    let diff = (today_date.getTime() - ss_dateObj.getTime() )/(1000*60*60*24);
 
-   let weekCount = Math.floor(diff/7);
+   let weekCount = Math.floor(diff/7).toString();
 
 
    let weekNum = document.getElementById("weekNum");
