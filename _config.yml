@@ -23,7 +23,7 @@ author:
   github: uol-taiwan  
 
 navbar-links:
-  For-New-Student: "For New Students.html"
+  "For New Students": "For New Students.html"
   
 language: zh-Hant-TW
 title: UOL Taiwan
