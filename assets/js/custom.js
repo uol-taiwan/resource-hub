@@ -1,4 +1,6 @@
 window.onload = function(){  
+   const SCHOOL_START_DATE = "2022/04/04";
+
    // Rewrite footer
    let copyright = document.getElementsByClassName("copyright");
    copyright[0].prepend("© UoL Taiwan ");
@@ -6,7 +8,7 @@ window.onload = function(){
    // School starts
    let school_starts = document.getElementById("school_starts");
    if (school_starts != null) 
-      school_starts.innerText = "2022/04/04";
+      school_starts.innerText = SCHOOL_START_DATE;
 
    // Calcuate week number
    let ss_dateObj = new Date("04/04/2022");
@@ -19,7 +21,7 @@ window.onload = function(){
 
    let weekNum = document.getElementById("weekNum");
    if (weekNum < 0) {
-      weekNum.innerText = "未開學";
+      weekNum.innerText = `未開學，開學日：${SCHOOL_START_DATE}`;
    } else {
       weekNum.innerText = `為學期第${weekCount}週`;
    }
