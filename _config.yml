@@ -11,7 +11,6 @@ relative_links:
   
 navbar-links:
   "新同學": "For New Students.html"
-  "加入 Discord": https://discord.gg/naaSD4yxtK
   
 language: zh-Hant-TW
 title: UOL Taiwan
@@ -26,10 +25,10 @@ baseurl: /resource-hub
 #   - <script src="./assets/js/index.js"
   
 site-css:
-  - "/assets/css/custom.css"
+  - /assets/css/custom.css
 
 site-js:
-  - "/assets/js/custom.js"
+  - /assets/js/custom.js
 
 include:
   - README.md
