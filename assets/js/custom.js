@@ -10,6 +10,14 @@ window.onload = function(){
    if (school_starts != null) 
       school_starts.innerText = SCHOOL_START_DATE;
 
+   // Fetch School Key Days
+   const url = "https://uol-tw.azurewebsites.net/api/skd";
+
+   fetch(url).then((response)=>{  return response.json();  // converting byte data to json
+   }).then(data=>{
+      console.log(data);
+   });
+
    // Calcuate week number
    let ss_dateObj = new Date("04/04/2022");
    let today_date = new Date();
@@ -22,6 +30,8 @@ window.onload = function(){
    } else {
       weekString.innerHTML = `為學期第<b style="color:salmon;">${weekCount}</b>週`;
    }
+
+
 
    // TO-DO: Add comments dynamically
    // let comments = [];
