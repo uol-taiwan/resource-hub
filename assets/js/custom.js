@@ -10,6 +10,8 @@ window.onload = function(){
          console.log(d.isClosest);
          if (d.isClosest) {
             // SCHOOL_START_DATE = `${d.month}  ${d.day.toString()}, ${d.year.toString()}`; 
+            console.log(`${d.month}  ${d.day.toString()}, ${d.year.toString()}`); 
+
          }
       });
    }).catch((err)=>{
