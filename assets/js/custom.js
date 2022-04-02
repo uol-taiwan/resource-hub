@@ -18,7 +18,6 @@ window.onload = function(){
          console.log("Something went wrong...");
    });   
 
-
    // Rewrite footer
    let copyright = document.getElementsByClassName("copyright");
    copyright[0].prepend("© UoL Taiwan ");
@@ -40,15 +39,12 @@ window.onload = function(){
       let weekString = document.getElementById("weekNum");
       if (weekString != null) {
          if (weekCount < 1) {
-            weekString.innerText = `未開學，開學日：${start_date}`;
+            weekString.innerText = `未開學，開學日：<b style="color:salmon;">${start_date}</b>`;
          } else {
             weekString.innerHTML = `為學期第<b style="color:salmon;">${weekCount}</b>週`;
          }
       }
    }
-
-
-
 
    // TO-DO: Add comments dynamically
    // let comments = [];
