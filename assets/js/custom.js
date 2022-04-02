@@ -4,7 +4,7 @@ window.onload = function(){
    // Fetch School Key Days
    const url = "https://uol-tw.azurewebsites.net/api/skd";
 
-   await fetch(url).then(response => response.json()) 
+   fetch(url).then(response => response.json()) 
    .then(data => {
       data.dates.forEach(d => {
          if (d.isClosest) {
