@@ -9,9 +9,7 @@ window.onload = function(){
       data.dates.forEach(d => {
          console.log(d.isClosest);
          if (d.isClosest) {
-            // SCHOOL_START_DATE = `${d.month}  ${d.day.toString()}, ${d.year.toString()}`; 
-            console.log(`${d.month}  ${d.day.toString()}, ${d.year.toString()}`); 
-
+            SCHOOL_START_DATE = `${d.month} ${d.day.toString()}, ${d.year.toString()}`; 
          }
       });
    }).catch((err)=>{
@@ -36,10 +34,12 @@ window.onload = function(){
    let weekCount = Math.ceil(diff/7).toString();
 
    let weekString = document.getElementById("weekNum");
-   if (weekCount < 1) {
-      weekString.innerText = `未開學，開學日：${SCHOOL_START_DATE}`;
-   } else {
-      weekString.innerHTML = `為學期第<b style="color:salmon;">${weekCount}</b>週`;
+   if (weekString != null) {
+      if (weekCount < 1) {
+         weekString.innerText = `未開學，開學日：${SCHOOL_START_DATE}`;
+      } else {
+         weekString.innerHTML = `為學期第<b style="color:salmon;">${weekCount}</b>週`;
+      }
    }
 
 
