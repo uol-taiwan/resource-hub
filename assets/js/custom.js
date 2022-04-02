@@ -1,47 +1,52 @@
 window.onload = function(){  
-   var SCHOOL_START_DATE = fetchStartDate();
+   var SCHOOL_START_DATE = "";
 
    // Fetch School Key Days
-   async function fetchStartDate() {
-      const url = "https://uol-tw.azurewebsites.net/api/skd";
+   const url = "https://uol-tw.azurewebsites.net/api/skd";
 
-      await fetch(url).then(response => response.json()) 
-      .then(data => {
-         data.dates.forEach(d => {
-            if (d.isClosest) {
-               return Promise.resolve(`${d.month} ${d.day.toString()}, ${d.year.toString()}`); 
-            }
-         });
-      }).catch((err)=>{
-         if (err)
-            console.log("Something went wrong...");
-      });   
-   }
+   await fetch(url).then(response => response.json()) 
+   .then(data => {
+      data.dates.forEach(d => {
+         if (d.isClosest) {
+            SCHOOL_START_DATE = `${d.month} ${d.day.toString()}, ${d.year.toString()}`; 
+            renderSchoolStarts(SCHOOL_START_DATE);
+            renderWeekNumber(SCHOOL_START_DATE);
+         }
+      });
+   }).catch((err)=>{
+      if (err)
+         console.log("Something went wrong...");
+   });   
+
 
    // Rewrite footer
    let copyright = document.getElementsByClassName("copyright");
    copyright[0].prepend("© UoL Taiwan ");
 
    // School starts
-   let school_starts = document.getElementById("school_starts");
-   if (school_starts != null) 
-      school_starts.innerText = SCHOOL_START_DATE;
-
+   function renderSchoolStarts(start_date) {
+      let school_starts = document.getElementById("school_starts");
+      if (school_starts != null) 
+         school_starts.innerText = start_date;
+   }
 
    // Calcuate week number
-   let ss_dateObj = new Date("04/04/2022");
-   let today_date = new Date();
-   let diff = (today_date.getTime() - ss_dateObj.getTime() )/(1000*60*60*24);
-   let weekCount = Math.ceil(diff/7).toString();
-
-   let weekString = document.getElementById("weekNum");
-   if (weekString != null) {
-      if (weekCount < 1) {
-         weekString.innerText = `未開學，開學日：${SCHOOL_START_DATE}`;
-      } else {
-         weekString.innerHTML = `為學期第<b style="color:salmon;">${weekCount}</b>週`;
+   function renderWeekNumber(start_date) {
+      let ss_dateObj = new Date(start_date);
+      let today_date = new Date();
+      let diff = (today_date.getTime() - ss_dateObj.getTime() )/(1000*60*60*24);
+      let weekCount = Math.ceil(diff/7).toString();
+   
+      let weekString = document.getElementById("weekNum");
+      if (weekString != null) {
+         if (weekCount < 1) {
+            weekString.innerText = `未開學，開學日：${start_date}`;
+         } else {
+            weekString.innerHTML = `為學期第<b style="color:salmon;">${weekCount}</b>週`;
+         }
       }
    }
+
 
 
 
