@@ -1,5 +1,5 @@
 window.onload = function(){  
-   let SCHOOL_START_DATE = "2022/04/04";
+   var SCHOOL_START_DATE = "";
 
    // Fetch School Key Days
    const url = "https://uol-tw.azurewebsites.net/api/skd";
