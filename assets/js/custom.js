@@ -26,7 +26,7 @@ window.onload = function(){
    // School starts
    let school_starts = document.getElementById("school_starts");
    if (school_starts != null) 
-      school_starts.innerText = await fetchStartDate();
+      school_starts.innerText = fetchStartDate();
 
 
    // Calcuate week number
@@ -38,7 +38,7 @@ window.onload = function(){
    let weekString = document.getElementById("weekNum");
    if (weekString != null) {
       if (weekCount < 1) {
-         weekString.innerText = `未開學，開學日：${await fetchStartDate()}`;
+         weekString.innerText = `未開學，開學日：${fetchStartDate()}`;
       } else {
          weekString.innerHTML = `為學期第<b style="color:salmon;">${weekCount}</b>週`;
       }
