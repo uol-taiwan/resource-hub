@@ -2,21 +2,23 @@ window.onload = function(){
    var SCHOOL_START_DATE = "";
 
    // Fetch School Key Days
-   const url = "https://uol-tw.azurewebsites.net/api/skd";
+   async function fetchStartDate() {
+      const url = "https://uol-tw.azurewebsites.net/api/skd";
 
-   fetch(url).then(response => response.json()) 
-   .then(data => {
-      data.dates.forEach(d => {
-         console.log(d.isClosest);
-         if (d.isClosest) {
-            SCHOOL_START_DATE = `${d.month} ${d.day.toString()}, ${d.year.toString()}`; 
-         }
-      });
-   }).catch((err)=>{
-      if (err)
-         console.log("Something went wrong...");
-   });
-   
+      await fetch(url).then(response => response.json()) 
+      .then(data => {
+         data.dates.forEach(d => {
+            console.log(d.isClosest);
+            if (d.isClosest) {
+               return `${d.month} ${d.day.toString()}, ${d.year.toString()}`; 
+            }
+         });
+      }).catch((err)=>{
+         if (err)
+            console.log("Something went wrong...");
+      });   
+   }
+
    // Rewrite footer
    let copyright = document.getElementsByClassName("copyright");
    copyright[0].prepend("© UoL Taiwan ");
@@ -24,7 +26,7 @@ window.onload = function(){
    // School starts
    let school_starts = document.getElementById("school_starts");
    if (school_starts != null) 
-      school_starts.innerText = SCHOOL_START_DATE;
+      school_starts.innerText = await fetchStartDate();
 
 
    // Calcuate week number
@@ -36,7 +38,7 @@ window.onload = function(){
    let weekString = document.getElementById("weekNum");
    if (weekString != null) {
       if (weekCount < 1) {
-         weekString.innerText = `未開學，開學日：${SCHOOL_START_DATE}`;
+         weekString.innerText = `未開學，開學日：${await fetchStartDate()}`;
       } else {
          weekString.innerHTML = `為學期第<b style="color:salmon;">${weekCount}</b>週`;
       }
