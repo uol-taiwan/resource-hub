@@ -1,19 +1,21 @@
 window.onload = function(){  
+   const SCHOOL_START_DATE = "2022/04/04";
+
    // Fetch School Key Days
    const url = "https://uol-tw.azurewebsites.net/api/skd";
 
    fetch(url).then(response => response.json()) 
    .then(data => {
       data.dates.forEach(d => {
-         console.log(d);
+         if (d.isClosest) {
+            SCHOOL_START_DATE = `${d.month}  ${d.day.toString()}, ${d.year}`; 
+         }
       });
    }).catch((err)=>{
       if (err)
          console.log("Something went wrong...");
    });
    
-   const SCHOOL_START_DATE = "2022/04/04";
-
    // Rewrite footer
    let copyright = document.getElementsByClassName("copyright");
    copyright[0].prepend("© UoL Taiwan ");
