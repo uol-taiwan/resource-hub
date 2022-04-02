@@ -1,4 +1,16 @@
 window.onload = function(){  
+   // Fetch School Key Days
+   const url = "https://uol-tw.azurewebsites.net/api/skd";
+
+   fetch(url).then((response)=>{  return response.json();  
+      response.dates.forEach((val, index) => {
+         console.log(val, index);
+      });
+   }).catch((err)=>{
+      if (err)
+         console.log("Something went wrong...");
+   });
+   
    const SCHOOL_START_DATE = "2022/04/04";
 
    // Rewrite footer
@@ -10,13 +22,6 @@ window.onload = function(){
    if (school_starts != null) 
       school_starts.innerText = SCHOOL_START_DATE;
 
-   // Fetch School Key Days
-   const url = "https://uol-tw.azurewebsites.net/api/skd";
-
-   fetch(url).then((response)=>{  return response.json();  // converting byte data to json
-   }).then(data=>{
-      console.log(data);
-   });
 
    // Calcuate week number
    let ss_dateObj = new Date("04/04/2022");
