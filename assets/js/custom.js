@@ -1,5 +1,5 @@
 window.onload = function(){  
-   var SCHOOL_START_DATE = await fetchStartDate();
+   var SCHOOL_START_DATE = fetchStartDate();
 
    // Fetch School Key Days
    async function fetchStartDate() {
@@ -8,7 +8,6 @@ window.onload = function(){
       await fetch(url).then(response => response.json()) 
       .then(data => {
          data.dates.forEach(d => {
-            console.log(d.isClosest);
             if (d.isClosest) {
                return `${d.month} ${d.day.toString()}, ${d.year.toString()}`; 
             }
