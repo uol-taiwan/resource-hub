@@ -9,7 +9,7 @@ window.onload = function(){
       .then(data => {
          data.dates.forEach(d => {
             if (d.isClosest) {
-               return `${d.month} ${d.day.toString()}, ${d.year.toString()}`; 
+               return Promise.resolve(`${d.month} ${d.day.toString()}, ${d.year.toString()}`); 
             }
          });
       }).catch((err)=>{
