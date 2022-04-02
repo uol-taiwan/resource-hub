@@ -39,7 +39,7 @@ window.onload = function(){
       let weekString = document.getElementById("weekNum");
       if (weekString != null) {
          if (weekCount < 1) {
-            weekString.innerText = `未開學，開學日：<b style="color:salmon;">${start_date}</b>`;
+            weekString.innerHTML = `未開學，開學日：<b style="color:salmon;">${start_date}</b>`;
          } else {
             weekString.innerHTML = `為學期第<b style="color:salmon;">${weekCount}</b>週`;
          }
