@@ -2,9 +2,9 @@ window.onload = function(){
    // Fetch School Key Days
    const url = "https://uol-tw.azurewebsites.net/api/skd";
 
-   fetch(url).then((response)=>{ 
-      let res = response.json;
-      res.dates.forEach(d => {
+   fetch(url).then(response => response.json()) 
+   .then(data => {
+      data.dates.forEach(d => {
          console.log(d);
       });
    }).catch((err)=>{
