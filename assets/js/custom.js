@@ -1,5 +1,5 @@
 window.onload = function(){  
-   const SCHOOL_START_DATE = "2022/04/04";
+   let SCHOOL_START_DATE = "2022/04/04";
 
    // Fetch School Key Days
    const url = "https://uol-tw.azurewebsites.net/api/skd";
@@ -8,7 +8,7 @@ window.onload = function(){
    .then(data => {
       data.dates.forEach(d => {
          if (d.isClosest) {
-            SCHOOL_START_DATE = `${d.month}  ${d.day.toString()}, ${d.year}`; 
+            SCHOOL_START_DATE = `${d.month}  ${d.day.toString()}, ${d.year.toString()}`; 
          }
       });
    }).catch((err)=>{
