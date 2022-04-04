@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-🗓️ 目前<span id="weekNum"> <img src="https://user-images.githubusercontent.com/14081948/161591789-7796fa74-91fe-455f-96ac-531a8045a0ef.gif" valign="middle" width="15"> </span>
+🗓️ 目前<span id="weekNum"> <img src="https://user-images.githubusercontent.com/14081948/161591789-7796fa74-91fe-455f-96ac-531a8045a0ef.gif" valign="middle" width="18"> </span>
 
 </p>
 
