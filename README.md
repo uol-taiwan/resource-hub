@@ -15,12 +15,15 @@
 
 </p>
 
+## 選課須知
 
-# 🤩 UoL Taiwan 新手入村須知
+[![Module per semester view](./assets\images\Modules_Per_Semester_Overview.png)</a>](https://uol-taiwan.github.io/resource-hub/module_selection.html)
+
+## 🤩 UoL Taiwan 新手入村須知
 
 [For New Students](https://uol-taiwan.github.io/resource-hub/For%20New%20Students.html)
 
-# 😜 Level 4 懶人包
+## 😜 Level 4 懶人包
 
 [CM1005 - ITP1: Intro to Programming I](https://uol-taiwan.github.io/resource-hub/Level%204/CM1005%20ITP1/README.html)
 
@@ -38,11 +41,11 @@
 
 [CM1040 - WD: Web Development](https://uol-taiwan.github.io/resource-hub/Level%204/CM1040%20WD/README.html)
 
-# 😜 Level 5 懶人包
+## 😜 Level 5 懶人包
 
 (敬請期待)
 
-# 📁 其他資源
+## 📁 其他資源
 
 ### GitHub Student Developer Pack
 
