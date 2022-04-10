@@ -4,7 +4,7 @@ title: 選課須知
 
 ## 課程晉級規章
 
-> Progression Rule，根據<<a href="https://london.ac.uk/sites/default/files/regulations/progregs-bsc-computer-science-2021-22.pdf">2021-2022 Programme Regulation</a>> p. 15-17
+> Progression Rule，根據<[2021-2022 Programme Regulation](https://london.ac.uk/sites/default/files/regulations/progregs-bsc-computer-science-2021-22.pdf)> p. 15-17
 
 ### PBA 過關標準
 
