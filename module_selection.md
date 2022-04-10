@@ -22,7 +22,7 @@ TBC
 
 <a href="./assets/images/Modules_Per_Semester_Overview.png" target="_new"><img src="./assets/images/Modules_Per_Semester_Overview.png" alt="Module Selection Per Term Overview"></a>
 
-<span style="align: center">[特別感謝Chris的製作] [點擊圖片可放大檢視]</span>
+<p style="text-align: center">[特別感謝Chris的製作]   [點擊圖片可放大檢視]</p>
 
 > 此圖不考量任何RPL申請
 

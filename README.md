@@ -1,25 +1,25 @@
 <!-- ![ULTSG_Banner](https://user-images.githubusercontent.com/14081948/160753354-ee8de386-f666-4d3e-b1a6-7055819adabf.png) -->
-<p align="center">
+<p style="text-align: center">
 <img src="https://user-images.githubusercontent.com/14081948/160769916-cd80de8f-e3df-4b6c-a1ea-b00e866e0190.png" width="40%" style="display:block;margin-left:auto;margin-right:auto;" />
 </p>
 
-<p align="center">
+<p style="text-align: center">
 這是一個給UoL在讀的學生的資訊園地。<br/>
 儘管這個學位是線上教學的方式，<br/>
 彼此在世界各地的角落學習著，但學習無遠弗屆，<br/>
 相信大家提供的經驗與資訊可以幫助更多同學們。
 </p>
 
-<p align="center">
+<p style="text-align: center">
 🗓️ 目前<span id="weekNum"> <img src="https://user-images.githubusercontent.com/14081948/161591789-7796fa74-91fe-455f-96ac-531a8045a0ef.gif" valign="middle" width="18"> </span>
 
 </p>
 
 ## 🤔 選課須知
 
-> 點擊圖片進入說明頁面
-
 <a href="https://uol-taiwan.github.io/resource-hub/module_selection.html"><img style="width: 100%" src="./assets\images\Modules_Per_Semester_Overview.png"></a>
+
+<p style="text-align: center; color: gray"> > 點擊圖片進入說明頁面 < </p>
 
 ## 🤩 UoL Taiwan 新手入村須知
 
