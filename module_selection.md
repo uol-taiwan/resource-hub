@@ -34,7 +34,7 @@ title: 選課須知
 
 - 剛上完60學分的Level 6
 
-## module selection 配速提醒
+## 配速提醒 Module Selection/Pacing
 
 <a href="./assets/images/Modules_Per_Semester_Overview.png" target="_new"><img src="./assets/images/Modules_Per_Semester_Overview.png" alt="Module Selection Per Term Overview"></a>
 
