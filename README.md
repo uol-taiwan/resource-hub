@@ -19,7 +19,7 @@
 
 > 點擊圖片進入說明頁面
 
-[![Module per semester view](./assets\images\Modules_Per_Semester_Overview.png)](https://uol-taiwan.github.io/resource-hub/module_selection.html)
+<a href="https://uol-taiwan.github.io/resource-hub/module_selection.html" target="_new"><img style="width: 100%" src="./assets\images\Modules_Per_Semester_Overview.png"></a>
 
 ## 🤩 UoL Taiwan 新手入村須知
 
