@@ -8,7 +8,7 @@ title: 選課須知
 
 ### PBA 過關標準
 
-- ITP1 以及 其一數學課 (DM若10月入學，CM若4月入學) 期中作業成績超過50%
+- ITP1 以及 其一數學課 (DM若10月入學，CM若4月入學) <span style="color: salmon">期中作業</span>成績超過50%
 
 ### Level 4 到 Level 5
 
@@ -28,7 +28,7 @@ title: 選課須知
 
 ### Final Project
 
-> Final Project是30學分，計算每學期最高60學分的時候要算對
+> Final Project是<span style="color: salmon">30學分</span>，計算每學期最高60學分的時候要算對
 
 - 得到所有Level 4以及Level 5課程的學分 (或 每堂被當的課都達到三次重修上限失敗了)
 
