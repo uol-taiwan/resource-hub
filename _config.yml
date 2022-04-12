@@ -26,11 +26,13 @@ site-css:
 site-js:
   - /assets/js/custom.js
   - /assets/js/widget.js
+  - /assets/js/countdown.js
 
 include:
   - README.md
   - /assets/css/custom.css
   - /assets/js/custom.js
   - /assets/js/widget.js
+  - /assets/js/countdown.js
 ---
 
