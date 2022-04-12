@@ -23,7 +23,6 @@ footer {
 }
 
 #countdown > p {
-  
   font-size: 32px;
   color: black;
 }
@@ -40,7 +39,11 @@ footer {
 }
 
 #counter {
-  display: inline-block;
+  display: flex;
+}
+
+#counter > p {
+  padding: 2px;
 }
 
 @media (min-width: 768px) {
