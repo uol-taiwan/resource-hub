@@ -54,8 +54,11 @@ footer {
   footer {
     padding: 0 0 1rem 0;
   }
+
+}
+
+@media screen and (max-width: 768px) {
   #countdown {
     width: 80%;
   }
 }
-
