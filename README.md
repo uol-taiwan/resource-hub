@@ -1,4 +1,6 @@
 <!-- ![ULTSG_Banner](https://user-images.githubusercontent.com/14081948/160753354-ee8de386-f666-4d3e-b1a6-7055819adabf.png) -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.1/p5.min.js" integrity="sha512-NxocnqsXP3zm0Xb42zqVMvjQIktKEpTIbCXXyhBPxqGZHqhcOXHs4pXI/GoZ8lE+2NJONRifuBpi9DxC58L0Lw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
 <p style="text-align: center">
 <img src="https://user-images.githubusercontent.com/14081948/160769916-cd80de8f-e3df-4b6c-a1ea-b00e866e0190.png" width="40%" style="display:block;margin-left:auto;margin-right:auto;" />
 </p>
@@ -14,7 +16,16 @@
 🗓️ 目前<span id="weekNum"> <img src="https://user-images.githubusercontent.com/14081948/161591789-7796fa74-91fe-455f-96ac-531a8045a0ef.gif" valign="middle" width="18"> </span>
 </p>
 
-<iframe id="countdown" src="https://free.timeanddate.com/countdown/i8a4kwhm/n241/cf111/cm0/cu4/ct0/cs0/ca0/cr0/ss0/cac000/cpc000/pct/tcfff/fn2/fs150/szw320/szh135/tat%E6%9C%9F%E4%B8%AD%E6%88%AA%E6%AD%A2%E5%80%92%E6%95%B8.../tac009/tpt%E6%9C%9F%E4%B8%AD%E7%B5%90%E6%9D%9F%E5%95%A6~/tpc009/mat%E5%8A%A0%E6%B2%B9!!/mac009/mpt%E5%A5%BD%E5%A5%BD%E4%BC%91%E6%81%AF%E6%AD%90~/mpc009/iso2022-06-27T21:00:00/pa0" allowtransparency="true" frameborder="0" width="330" height="155"></iframe>
+<div id="countdown">
+        <p>期中截止倒數</p>
+        <div>
+          <p id="days"></p>
+          <p id="hours"></p>
+          <p id="mins"></p>
+          <p id="secs"></p>
+          <h2 id="end"></h2>
+        </div>
+      </div>
 
 ## 🤔 選課須知
 
