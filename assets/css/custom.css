@@ -19,7 +19,11 @@ a:hover {
 }
 
 #countdown {
-  margin: auto;
+  margin: 30%;
+}
+
+footer {
+  padding: 0 0 1rem 0;
 }
 
 @media (min-width: 768px) {
@@ -30,8 +34,8 @@ a:hover {
   footer {
     padding: 0 0 1rem 0;
   }
+  #counter {
+    margin: 10%;
+  }
 }
 
-footer {
-  padding: 0 0 1rem 0;
-}
