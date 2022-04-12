@@ -18,16 +18,12 @@ a:hover {
   color: #333333;
 }
 
-#countdown {
-  margin: 30%;
-}
-
 footer {
   padding: 0 0 1rem 0;
 }
 
-p {
-  display: inline;
+#countdown > p {
+  
   font-size: 32px;
   color: black;
 }
@@ -41,6 +37,10 @@ p {
   width: 50%;
   height: 20vh;
   margin: auto;
+}
+
+#counter {
+  display: inline-block;
 }
 
 @media (min-width: 768px) {

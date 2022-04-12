@@ -17,15 +17,15 @@
 </p>
 
 <div id="countdown">
-        <p>期中截止倒數</p>
-        <div>
-          <p id="days"></p>
-          <p id="hours"></p>
-          <p id="mins"></p>
-          <p id="secs"></p>
-          <h2 id="end"></h2>
-        </div>
-      </div>
+    <p>期中截止倒數</p>
+    <div id="counter" style="display: inline">
+        <p id="days"></p>
+        <p id="hours"></p>
+        <p id="mins"></p>
+        <p id="secs"></p>
+        <h2 id="end"></h2>
+    </div>
+</div>
 
 ## 🤔 選課須知
 
