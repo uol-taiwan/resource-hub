@@ -33,7 +33,7 @@ footer {
   align-items: center;
   justify-content: center;
   border: 2px dashed salmon;
-  width: 50%;
+  width: 80%;
   height: 20vh;
   margin: auto;
 }
@@ -54,10 +54,6 @@ footer {
   footer {
     padding: 0 0 1rem 0;
   }
-
-}
-
-@media screen and (max-width: 768px) {
   #countdown {
     width: 80%;
   }
