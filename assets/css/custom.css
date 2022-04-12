@@ -25,6 +25,7 @@ footer {
 #countdown > p {
   font-size: 32px;
   color: black;
+  margin-bottom: 0;
 }
 
 #countdown {
@@ -40,13 +41,12 @@ footer {
 
 #counter {
   display: flex !important;
-  /* height:  */
 }
 
 #counter > p {
-  font-size: 16px;
+  font-size: 20px;
   padding: 2px !important;
-  margin: 0 !important;
+  margin: 15px 0 0 0 !important;
 }
 
 @media (min-width: 768px) {
