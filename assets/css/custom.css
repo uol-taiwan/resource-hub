@@ -39,11 +39,11 @@ footer {
 }
 
 #counter {
-  display: flex;
+  display: flex !important;
 }
 
 #counter > p {
-  padding: 2px;
+  padding: 2px !important;
 }
 
 @media (min-width: 768px) {
