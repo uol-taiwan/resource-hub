@@ -8,6 +8,9 @@ window.onload = function(){
    .then(data => {
       data.dates.forEach(d => {
          if (d.isClosest) {
+            // Since UoL official page will update their dates in the following year
+            // (e.g. April 17, 2023), I intentionally set the year to the current year. 
+            // So the calculation will based on the closest school starts day correctly.
             SCHOOL_START_DATE = `${d.month} ${d.day.toString()}, ${today_date.getFullYear().toString()}`; 
             renderSchoolStarts(SCHOOL_START_DATE);
             renderWeekNumber(SCHOOL_START_DATE);
