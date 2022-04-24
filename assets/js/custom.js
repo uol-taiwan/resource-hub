@@ -35,10 +35,9 @@ window.onload = function(){
       let today_date = new Date();
       let diff = (today_date.getTime() - ss_dateObj.getTime() )/(1000*60*60*24);
       let weekCount = Math.ceil(diff/7).toString();
-      console.log(weekCount, diff);
       let weekString = document.getElementById("weekNum");
       if (weekString != null) {
-         if (weekCount < 1) {    
+         if (weekCount < 1 && weekCount > 0) {    
             weekString.innerHTML = `未開學，開學日：<b style="color:salmon;">${start_date}</b>`;
          } else {
             weekString.innerHTML = `為學期第<b style="color:salmon;">${weekCount}</b>週`;
