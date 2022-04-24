@@ -35,7 +35,7 @@ window.onload = function(){
       let today_date = new Date();
       let diff = (today_date.getTime() - ss_dateObj.getTime() )/(1000*60*60*24);
       let weekCount = Math.ceil(diff/7).toString();
-   
+      console.log(weekCount, diff);
       let weekString = document.getElementById("weekNum");
       if (weekString != null) {
          if (weekCount < 1) {    
