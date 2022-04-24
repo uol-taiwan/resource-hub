@@ -1,15 +1,14 @@
 window.onload = function(){  
    var SCHOOL_START_DATE = "";
-
+   let today_date = new Date();
    // Fetch School Key Days
    const url = "https://uol-tw.azurewebsites.net/api/skd";
 
    fetch(url).then(response => response.json()) 
    .then(data => {
-      let this_year = new Date();
       data.dates.forEach(d => {
          if (d.isClosest) {
-            SCHOOL_START_DATE = `${d.month} ${d.day.toString()}, ${this_year.year.toString()}`; 
+            SCHOOL_START_DATE = `${d.month} ${d.day.toString()}, ${today_date.getFullYear().toString()}`; 
             renderSchoolStarts(SCHOOL_START_DATE);
             renderWeekNumber(SCHOOL_START_DATE);
          }
@@ -34,7 +33,6 @@ window.onload = function(){
    function renderWeekNumber(start_date) {
       console.log(start_date);
       let ss_dateObj = new Date(start_date);
-      let today_date = new Date();
       let diff = (today_date.getTime() - ss_dateObj.getTime() )/(1000*60*60*24);
       let weekCount = Math.ceil(diff/7).toString();
       let weekString = document.getElementById("weekNum");
