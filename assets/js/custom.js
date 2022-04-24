@@ -31,6 +31,7 @@ window.onload = function(){
 
    // Calcuate week number
    function renderWeekNumber(start_date) {
+      console.log(start_date);
       let ss_dateObj = new Date(start_date);
       let today_date = new Date();
       let diff = (today_date.getTime() - ss_dateObj.getTime() )/(1000*60*60*24);
