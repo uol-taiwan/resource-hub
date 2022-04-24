@@ -6,9 +6,10 @@ window.onload = function(){
 
    fetch(url).then(response => response.json()) 
    .then(data => {
+      let this_year = new Date();
       data.dates.forEach(d => {
          if (d.isClosest) {
-            SCHOOL_START_DATE = `${d.month} ${d.day.toString()}, ${d.year.toString()}`; 
+            SCHOOL_START_DATE = `${d.month} ${d.day.toString()}, ${this_year.year.toString()}`; 
             renderSchoolStarts(SCHOOL_START_DATE);
             renderWeekNumber(SCHOOL_START_DATE);
          }
