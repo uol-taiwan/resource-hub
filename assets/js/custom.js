@@ -64,7 +64,4 @@ window.onload = function(){
    //    content: "comment 2",
    //    date: "03/30/2022"
    // });
-
-
-
 }  
