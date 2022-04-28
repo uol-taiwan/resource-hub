@@ -2,7 +2,7 @@
 title: Sprint2Strive
 ---
 
-<p style="text-align: center"> [UoL Taiwan Discord server](https://discord.gg/RSsHVBQm2R) </p>
+<p style="text-align: center"><a href="https://discord.gg/RSsHVBQm2R">[UoL Taiwan Discord Server]</a></p>
 
 ### 緣起 ###
 哈囉大家～我們又有個新idea要來鼓勵大家參與了～
@@ -38,4 +38,4 @@ Sprint15 will happen every Sunday at 10:30 pm GMT+8 starting this Sunday, May 1s
 
 Lastly, we're not teaching assistants and we're not here to supervise you or anything, it's all based on "helping everyone" objective, in the end, the time you spent and the success you received are still yours, we can only support each other, Cheers!
 
-<p style="text-align: center"> [UoL Taiwan Discord server](https://discord.gg/RSsHVBQm2R) </p>
+<p style="text-align: center"><a href="https://discord.gg/RSsHVBQm2R">[UoL Taiwan Discord Server]</a></p>
