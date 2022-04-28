@@ -17,7 +17,7 @@ title: Sprint2Strive
 所有同學的目標都會是公開的，會在discord #sprint2strive由bot方式呈現，希望達到良性競爭/激勵的效果。
 
 ### 如何參加? ###
-參加的人請於每隔週週日台灣時間晚上10:30於discord #sprint15 (voice channel) 報到(本週日5/1開始)，我們盡量簡短有力，所以請參加的同學早幾分鐘進場，以準時跟大家確認進度。沒能參加的同學也可以在#sprint2strive預先給我們你的sprint15。
+參加的人請於每隔2週的週日台灣時間晚上10:30於discord #sprint15 (voice channel) 報到(本週日5/1開始)，我們盡量簡短有力，所以請參加的同學早幾分鐘進場，以準時跟大家確認進度。沒能參加的同學也可以在#sprint2strive預先給我們你的sprint15。
 
 最後，我們不是小老師也不是要監督什麼，就是一個關心的出發點幫大家激勵學習，因為時間跟成功還是你們自己的，我們只能相互支持了 Cheers!
 
@@ -39,7 +39,7 @@ You might have heard about a company doing a project with sprints. It's like a s
 Every participant's sprint goals will be publicly displayed through a discord bot in #sprint2strive, we hope this can have a friendly competitiveness/motivation effect. 
 
 ### How to joing? ###
-Sprint15 will happen every Sunday at 10:30 pm GMT+8 starting this Sunday, May 1st. Please head over to #sprint15 (voice channel) a few minutes earlier, we will try to keep it short. If you're not able to join for the week, feel free to leave your sprint15 (review & goal) in #sprint2strive. 
+Sprint15 will happen every Sunday (bi-weekly) at 10:30 pm GMT+8 starting this Sunday, May 1st. Please head over to #sprint15 (voice channel) a few minutes earlier, we will try to keep it short. If you're not able to join for the week, feel free to leave your sprint15 (review & goal) in #sprint2strive. 
 
 Lastly, we're not teaching assistants and we're not here to supervise you or anything, it's all based on "helping everyone" objective, in the end, the time you spent and the success you received are still yours, we can only support each other, Cheers!
 
