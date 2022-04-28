@@ -4,6 +4,7 @@ title: Sprint2Strive
 
 <p style="text-align: center"><a href="https://discord.gg/RSsHVBQm2R">[UoL Taiwan Discord Server]</a></p>
 
+
 ### 緣起 ###
 哈囉大家～我們又有個新idea要來鼓勵大家參與了～
 
@@ -21,7 +22,9 @@ title: Sprint2Strive
 最後，我們不是小老師也不是要監督什麼，就是一個關心的出發點幫大家激勵學習，因為時間跟成功還是你們自己的，我們只能相互支持了 Cheers!
 
 
+
 ---
+
 
 
 ### Objective ###
