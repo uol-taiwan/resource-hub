@@ -1,6 +1,7 @@
 ---
 title: 歡迎!
 ---
+
 # For New Students
 
 # 新同學
@@ -9,19 +10,20 @@ title: 歡迎!
 
 ### To Do 清單
 
-- 在 <a href="https://london.ac.uk/courses/computer-science#key-dates" target="_new" style="text-decoration:none;"><span id="school_starts" style="font-weight:bold;color:salmon;" > 
-<img src="https://user-images.githubusercontent.com/14081948/161591789-7796fa74-91fe-455f-96ac-531a8045a0ef.gif" valign="middle" width="18"> 
-</span></a> 前完成 Cousera 上的新生訓練(Orientation)
+- 在 <a href="https://london.ac.uk/courses/computer-science#key-dates" target="_new" style="text-decoration:none;"><span id="school_starts" style="font-weight:bold;color:salmon;" >
+  <img src="https://user-images.githubusercontent.com/14081948/161591789-7796fa74-91fe-455f-96ac-531a8045a0ef.gif" valign="middle" width="18">
+  </span></a> 前完成 Cousera 上的新生訓練(Orientation)
   不然你將看不到你註冊的課!!
 - 熟悉 Slack 介面 & 加入所有你將要上的課的 channel (i.e. `#cm1005-intro-prog-i`)
   `browse channels` 找，全部正式課程 channel 都是`cm + course code` 開頭
   (每個人都可以自己建立 channel，所以可能會非正式課程 channel 不要搞錯了喔，看 channel 人數如果 L4 沒有破千就不對)
-  ![Untitled](%E6%96%B0%E5%90%8C%E5%AD%B8%200a571/Untitled.png)
+
   幾個 Slack 的使用重點:
   在問問題前先搜尋
   問”好”問題
   禁止問 graded assignment 的直接問題
   使用 thread!!!!
+
 - 熟悉 Coursera 平台
 - [optional] [加入非正式之正式 UoL 校外群 Discord](https://discord.gg/h4Kuhe57)
 
