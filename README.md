@@ -2,7 +2,7 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.1/p5.min.js" integrity="sha512-NxocnqsXP3zm0Xb42zqVMvjQIktKEpTIbCXXyhBPxqGZHqhcOXHs4pXI/GoZ8lE+2NJONRifuBpi9DxC58L0Lw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 
 <p style="text-align: center">
-<img src="https://user-images.githubusercontent.com/14081948/160769916-cd80de8f-e3df-4b6c-a1ea-b00e866e0190.png" width="40%" style="display:block;margin-left:auto;margin-right:auto;" />
+<img src="https://user-images.githubusercontent.com/14081948/160769916-cd80de8f-e3df-4b6c-a1ea-b00e866e0190.png" width="60%" style="display:block;margin-left:auto;margin-right:auto;" />
 </p>
 
 <p style="text-align: center">
