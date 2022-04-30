@@ -10,7 +10,6 @@ relative_links:
   collections: true
 
 navbar-links:
-  "新同學": "For New Students.html"
   "最新消息": "newest_uploads.html"
 
 language: zh-Hant-TW
