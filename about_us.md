@@ -15,6 +15,7 @@
 <br><br>
 
 我們很歡迎想加入TSG成為延續這個community的同學與我們做深入交流，特別是以下特質或想法...</p>
+<br>
 
 <ul class="about-us">
     <li>經營/製作網站</li>
