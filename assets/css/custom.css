@@ -50,7 +50,7 @@ footer {
 }
 
 .about-us {
-  width: 60%;
+  width: 80%;
   margin: auto;
 }
 
@@ -66,6 +66,6 @@ footer {
     width: 50%;
   }
   .about-us {
-    width: 80%;
+    width: 60%;
   }
 }
