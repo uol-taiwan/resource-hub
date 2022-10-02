@@ -38,3 +38,5 @@ title: ADS1
 ### 🤩 同學們的建議:
 
 Chris: 如果覺得 Data Structure 這個概念很新的話，建議多參考 [Youtube](https://www.youtube.com/watch?v=DuDz6B4cqVc) 相關的教學，其次是所有的 Algorithms 要深入了解其運算的過程，比較像是數學帶公式的方式，若一個步驟錯樣樣錯。期末考程度每年有異，只能多練習，多練功了。[03/29/2022]
+
+Cynthia: 課堂中的pseudocode能練習寫成JS就做，或是練習想一個邏輯定把它用pseoducode寫出來，會對期中作業有很大的幫助。期末的部分會需要理解JS Algorithm並找出更好寫法的能力，只能靠平時練習。[2022/10/02]
