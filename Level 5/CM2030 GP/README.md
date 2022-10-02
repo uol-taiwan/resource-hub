@@ -1,6 +1,7 @@
+---
+title: GP
+---
 # CM2030 : Graphics Programming
-
-Level: Level 5
 
 ![ULTSG_Banner.png](Asset/ULTSG_Banner.png)
 
