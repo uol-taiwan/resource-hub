@@ -12,7 +12,7 @@
 相信大家提供的經驗與資訊可以幫助更多同學們。
 </p>
 
-<p style="text-align: center">
+<!-- <p style="text-align: center">
 🗓️ 目前<span id="weekNum"> <img src="https://user-images.githubusercontent.com/14081948/161591789-7796fa74-91fe-455f-96ac-531a8045a0ef.gif" valign="middle" width="18"> </span>
 </p>
 
@@ -25,7 +25,7 @@
         <p id="secs"> </p>
         <h2 id="end"> </h2>
     </div>
-</div>
+</div> -->
 
 
 ## 最新消息
@@ -70,7 +70,11 @@
 
 ## 😜 Level 5 懶人包
 
-(敬請期待)
+[CM2005 - OOP: Object Oriented Programming](https://uol-taiwan.github.io/resource-hub/Level%205/CM2005%20OOP/README.html)
+
+[CM2015 - PwD: Programming with Data](https://uol-taiwan.github.io/resource-hub/Level%205/CM2015%20PwD/README.html)
+
+[CM2030 - GP: Graphics Programming](https://uol-taiwan.github.io/resource-hub/Level%205/CM2030%20GP/README.html)
 
 ## 📁 其他資源
 
