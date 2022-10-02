@@ -22,4 +22,8 @@ title: 課程懶人包
 
 ## 😜 Level 5 懶人包
 
-(敬請期待)
+[CM2005 - OOP: Object Oriented Programming](https://uol-taiwan.github.io/resource-hub/Level%205/CM2005%20OOP/README.html)
+
+[CM2015 - PwD: Programming with Data](https://uol-taiwan.github.io/resource-hub/Level%205/CM2015%20PwD/README.html)
+
+[CM2030 - GP: Graphics Programming](https://uol-taiwan.github.io/resource-hub/Level%205/CM2030%20GP/README.html)
